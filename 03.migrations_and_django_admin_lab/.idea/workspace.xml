@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700dd2d3-a534-4b32-9d64-b39ac7d22b04" name="Changes" comment="" />
+    <list default="true" id="700dd2d3-a534-4b32-9d64-b39ac7d22b04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a1c6950b-e9c3-49b7-9a4d-dacce326a4e5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a1c6950b-e9c3-49b7-9a4d-dacce326a4e5/storage_v2/_src_/database/migrations_django_admin_db.-FVtoQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a1c6950b-e9c3-49b7-9a4d-dacce326a4e5/storage_v2/_src_/database/migrations_django_admin_db.-FVtoQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a1c6950b-e9c3-49b7-9a4d-dacce326a4e5/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a1c6950b-e9c3-49b7-9a4d-dacce326a4e5/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +20,9 @@
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -41,7 +52,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.caller">
+  <component name="RunManager" selected="Django Server.03.migrations_and_django_admin_lab">
     <configuration name="caller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="03.migrations_and_django_admin_lab" />
       <option name="ENV_FILES" value="" />
@@ -72,7 +83,6 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="orm_skeleton.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -118,6 +128,9 @@
       <workItem from="1725115908284" duration="183000" />
       <workItem from="1725194052768" duration="8000" />
       <workItem from="1725194242306" duration="20000" />
+      <workItem from="1725215540386" duration="14000" />
+      <workItem from="1725216040569" duration="6000" />
+      <workItem from="1725216076982" duration="207000" />
     </task>
     <servers />
   </component>
